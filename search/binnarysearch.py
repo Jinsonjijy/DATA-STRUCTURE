@@ -10,5 +10,5 @@ def binnary(a,low,high,x):
             high=mid-1
     return False
 arr=[23,45,41,47,67,89,100]
-a=binnary(arr,0,len(arr)-1,100)
+a=binnary(arr.sort(),0,len(arr)-1,100)
 print(a)
