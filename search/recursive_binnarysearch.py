@@ -10,5 +10,5 @@ def binnarysearch(a,low,high,x):
     return False
 arr=[23,24,12,15,27,89,100]
 arr.sort()
-b=binnarysearch(arr,0,len(arr)-1,15)
+b=binnarysearch(arr,0,len(arr)-1,100)
 print(b+1)
