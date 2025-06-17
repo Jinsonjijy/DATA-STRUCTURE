@@ -1,4 +1,4 @@
-"""this is a code snippet for the insertions sort and
+"""this is a code snippet for the insertions sort, and
  it can implemented by the idea that
     an array that contain one part as sorted part and
         other conatiain unsorted path take the value from the unsroted(right)
