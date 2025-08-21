@@ -12,3 +12,4 @@ while not swap: #this loop is used to pass the inner loop (it is mainly used to 
 
 for i in range(n):
     print(list1[i],end="\t")
+    # the complexity is O(n^2)
