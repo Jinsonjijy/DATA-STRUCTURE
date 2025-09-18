@@ -15,3 +15,7 @@ for i in range (n):
     myarray.append(int(input("enter the element")))
 countinsort(myarray)
 print(myarray)
+""" the time complexity: O(n^2)
+
+
+"""
